@@ -2,31 +2,31 @@
 	{
         "id": 1,
 		"name": "Github",
-        "username": "ricocc",
+        "username": "yuchihatuntun",
 		"image": "/assets/social/social-github.jpg",
-		"url": "https://github.com/ricocc/"
+		"url": "https://github.com/yuchihatuntun/"
 	},
 
 	{
         "id": 2,
 		"name": "Xiaohongshu",
-        "username": "ricouii",
+        "username": "spice monkey",
 		"image": "/assets/social/social-xiaohongshu.jpg",
-		"url": "https://www.xiaohongshu.com/user/profile/5f2b6903000000000101f51f"
+		"url": "https://xhslink.com/m/36biZf0bD9c"
 	},
 
     {
         "id": 3,
 		"name": "Twitter",
-        "username": "ricouii",
+        "username": "nan",
 		"image": "/assets/social/social-twitter.jpg",
-		"url": "https://x.com/ricouii"
+		"url": "https://x.com"
 	},
 
     {
         "id": 4,
 		"name": "Gumroad",
-        "username": "ricoui",
+        "username": "nan",
 		"image": "/assets/social/social-gumroad.jpg",
 		"url": "https://ricoui.gumroad.com/"
 	},
@@ -59,9 +59,9 @@
     {
         "id": 8,
 		"name": "Email",
-        "username": "ricocc",
+        "username": "tuntun uchiha",
 		"image": "/assets/social/social-email.jpg",
-		"url": "mailto:ricocc@qq.com"
+		"url": "xurlin7@mail2.sysu.edu.cn"
 	}
 
 
